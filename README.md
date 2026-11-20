@@ -46,7 +46,7 @@ Altura: 4 decímetros
 
 ## Evidencias reales de ejecución
 
-Las siguientes capturas deben tomarse al ejecutar el proyecto en una computadora. Guarda las imágenes PNG dentro de `evidencias/` usando **exactamente** estos nombres. Las referencias ya están configuradas para mostrarlas automáticamente en GitHub.
+A continuación se presentan las evidencias reales de ejecución del proyecto Pokédex, incluyendo la búsqueda exitosa de Pikachu, la visualización de sus movimientos y el archivo JSON generado.
 
 ### Evidencia 1. Búsqueda exitosa de Pikachu
 
