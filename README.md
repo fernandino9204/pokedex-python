@@ -31,32 +31,48 @@ Selecciona `1`, escribe `pikachu` y presiona Enter. El programa muestra nombre, 
 - `pokedex/`: archivos JSON generados durante las consultas.
 - `evidencias/`: capturas reales de la ejecución para agregar antes de entregar.
 
+
 ## Ejemplo de búsqueda exitosa
+
+Al ejecutar el programa y consultar Pikachu,
+se obtiene la siguiente información:
+
 ```text
 ===== MENÚ POKÉDEX =====
 1. Buscar Pokémon
 2. Salir
+
 Selecciona una opción: 1
 Ingresa el nombre del Pokémon: pikachu
+
 Pokémon encontrado.
 Nombre: pikachu
 Peso: 60 hectogramos
 Altura: 4 decímetros
+Tipos: electric
+Habilidades: static, lightning-rod
 ```
+
+El programa también muestra los movimientos
+y la URL de la imagen frontal del Pokémon.
+
+Cada consulta exitosa genera un archivo JSON
+individual dentro de la carpeta pokedex.
+
 
 ## Evidencias reales de ejecución
 
-A continuación se presentan las evidencias reales de ejecución del proyecto Pokédex, incluyendo la búsqueda exitosa de Pikachu, la visualización de sus movimientos y el archivo JSON generado.
+A continuación se muestran las evidencias obtenidas durante la ejecución del programa. Se realizó una consulta de Pikachu utilizando la PokéAPI y se verificó la información recuperada, incluyendo sus estadísticas, movimientos y el archivo JSON generado.
 
-### Evidencia 1. Búsqueda exitosa de Pikachu
+### Búsqueda exitosa de Pikachu
 
 ![Búsqueda exitosa](busqueda_exitosa.png)
 
-### Evidencia 2. Movimientos e imagen frontal
+### Movimientos e imagen frontal
 
 ![Movimientos del Pokémon](movimientos_pokemon.png)
 
-### Evidencia 3. Archivo JSON generado
+### Archivo JSON generado
 
 ![Archivo JSON generado](archivo_json.png)
 
