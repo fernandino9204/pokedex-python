@@ -50,23 +50,15 @@ Las siguientes capturas deben tomarse al ejecutar el proyecto en una computadora
 
 ### Evidencia 1. Búsqueda exitosa de Pikachu
 
-Ejecuta `py pokedex_final.py`, selecciona `1`, busca `pikachu` y captura la consola con el nombre, peso, altura, tipos y habilidades.
-
-![Búsqueda exitosa de Pikachu](evidencias/busqueda_exitosa.png)
+![Búsqueda exitosa](busqueda_exitosa.png)
 
 ### Evidencia 2. Movimientos e imagen frontal
 
-En la misma ejecución, captura la consola donde se muestran los movimientos y la URL de la imagen frontal (`sprites`).
+![Movimientos del Pokémon](movimientos_pokemon.png)
 
-![Movimientos y URL de imagen frontal](evidencias/movimientos_pokemon.png)
+### Evidencia 3. Archivo JSON generado
 
-### Evidencia 3. JSON generado
-
-Abre el archivo `.json` creado en `pokedex/` con Bloc de notas o VS Code y captura el contenido real.
-
-![Archivo JSON generado](evidencias/archivo_json.png)
-
-**Nota:** Las imágenes anteriores solo se visualizarán cuando agregues tus capturas reales. No se incluyen capturas ficticias.
+![Archivo JSON generado](archivo_json.png)
 
 ## Librerías utilizadas
 
